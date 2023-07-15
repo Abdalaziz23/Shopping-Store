@@ -20,7 +20,7 @@ class ShopLayout extends StatelessWidget {
         return Scaffold(
           appBar: AppBar(
             title: const Text(
-              'Football',
+              'Shopping Store',
             ),
             actions: [
               IconButton(
